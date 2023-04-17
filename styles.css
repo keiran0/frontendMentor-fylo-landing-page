@@ -267,6 +267,7 @@ button:hover {
     grid-area: submit;
     max-width:100%;
     width:100%;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .button-bottom:hover {
